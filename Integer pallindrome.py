@@ -10,6 +10,6 @@ while(num!=0):
     num = num//10
     #print(num)
 if num1 == reverse:
-    print("Pallindrome")
+    print("palindrome")
 else:
-    print("Not Pallindrome")
+    print("Not palindrome")
