@@ -1,3 +1,2 @@
 # Python-files
-This repository contains some Python projects made by me
-:):)
+Some beginner Python Projects
